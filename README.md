@@ -1,4 +1,4 @@
-# Mega-to-Google-Drive
+# Mega_to_Google_Drive
 This is a Google Colab notebook to transfer files from Mega to Google Drive
 <br><br><b>Usage:</b>
 <br>
